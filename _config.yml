@@ -278,6 +278,7 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+  published: true
 
 
 # HTML Compression
