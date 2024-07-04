@@ -1,5 +1,5 @@
 ---
 title: Search
-layout: serach
+layout: search
 permalink: /search/
 ---
